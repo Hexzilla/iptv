@@ -1,0 +1,15 @@
+.invalid-feedback1 {
+    color: red;
+    font-size: 16px;
+    background-color: #ffcaca;
+    background-size: 24px 24px;
+    background-repeat: no-repeat;
+    background-position: 2px;
+    padding: 5px;
+    border-radius: 5px 5px 5px;
+    border: 1px solid red;
+    /* padding-left: 25px; */
+    position: relative;
+    display: block;
+    margin: 8px;
+}
